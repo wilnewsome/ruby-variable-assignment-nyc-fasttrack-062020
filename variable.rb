@@ -1,4 +1,4 @@
-Greeting = "Hello World"
+greeting = "Hello World"
 
 
 
